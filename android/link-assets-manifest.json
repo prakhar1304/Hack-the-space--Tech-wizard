@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/app_icons.ttf",
+      "sha1": "18e5fe2f93c853bbb495975f04df56438d595de5"
+    },
+    {
+      "path": "src/assets/Fonts/BebasNeue-Regular.ttf",
+      "sha1": "8b3aaeb978f3cb5f575860774b50c332338563c1"
+    },
+    {
+      "path": "src/assets/Fonts/Cardo-Bold.ttf",
+      "sha1": "b29f4ca8d183e351b907b81204fbb5944dffe69a"
+    },
+    {
+      "path": "src/assets/Fonts/Cardo-Regular.ttf",
+      "sha1": "ac5eb3f9a3b9c1e5aaf8a5c9b871ed89634d289f"
+    },
+    {
+      "path": "src/assets/Fonts/KaushanScript-Regular.ttf",
+      "sha1": "8b203c70f9c8f5d437eb5a87a6c7df39fb2996b7"
+    },
+    {
+      "path": "src/assets/Fonts/Merriweather-Regular.ttf",
+      "sha1": "f4e7810e4e20d1932d3d7994bb6f6456280ee6bd"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "src/assets/Fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assets/Fonts/qb-one-semi-bold-condensed.ttf",
+      "sha1": "7bd63a42622212d647414b04eceff2c73a52414f"
+    }
+  ]
+}
