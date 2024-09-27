@@ -4,6 +4,7 @@ import { useNavigation } from '@react-navigation/native';
 import HomeNftCard from '../../components/NFT/HomeNftCard';
 import color from '../../common/color';
 import { StackNavigationProp } from '@react-navigation/stack';
+import { LOGOSVG } from '../../components/SvgComponent/SvgComponent';
 
 const { width, height } = Dimensions.get('window');
 
@@ -44,10 +45,15 @@ const Home = () => {
       <View style={styles.header}>
       <Image source={{ uri: 'https://i.pinimg.com/736x/07/33/ba/0733ba760b29378474dea0fdbcb97107.jpg' }} style={styles.profileImage} />
 
-        <Text style={styles.HeaderTitle}>AR</Text>
+        {/* <Text style={styles.HeaderTitle}>AR</Text> */}
+        <View style = {{backgroundColor:"black" , borderRadius:40 , height:60 , width:60 }}>
+           <LOGOSVG width={"100%"} height={"100%"} fill="white"  />
+        </View>
+        
        
         <View style = {styles.balance}>
-        <Text>sdvs</Text>
+        <Image source={{ uri: 'https://i.ibb.co/2s90jyv/Diam.png' }} style={{height:height*0.03, width:50,}} />  
+        <Text style = {{color:color.BLACK ,  fontSize:18 , fontWeight:'500'}}>200</Text>
         </View>
       </View>
 
@@ -125,9 +131,14 @@ const styles = StyleSheet.create({
   },
   balance:{
     height:50,
-    width:"20%",
+    width:"30%",
     backgroundColor:color.WHITE,
-    borderWidth:2,
-    borderColor:color.BLACK
+    borderWidth:5,
+    borderColor:color.BLACK,
+    borderRadius:40,
+    overflow:"hidden",
+    flexDirection:"row",
+    alignItems:"center",
+    justifyContent:"center"
   }
 });
